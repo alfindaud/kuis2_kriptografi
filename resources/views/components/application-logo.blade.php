@@ -1,0 +1,1 @@
+<img src="{{ asset('papa_zola.png') }}" alt="" width="150">
